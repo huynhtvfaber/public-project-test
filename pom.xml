@@ -11,7 +11,18 @@
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
     
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.2.2.RELEASE</version>
+    </parent>
+    
     <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter</artifactId>
+        </dependency>
+        
         <!-- Asciidoc -->
         <dependency>
             <groupId>org.asciidoctor</groupId>
@@ -24,11 +35,25 @@
             <artifactId>asciidoctorj-pdf</artifactId>
             <version>1.5.0-alpha.15</version>
         </dependency>
+        
+        <!-- https://mvnrepository.com/artifact/org.jruby/jruby-complete -->
+        <!-- dependency>
+            <groupId>org.jruby</groupId>
+            <artifactId>jruby-complete</artifactId>
+            <version>9.1.8.0</version>
+        </dependency -->
+
+        
+        <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-lang3 -->
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>3.9</version>
+        </dependency>
     </dependencies>
     
     <build>
         <plugins>
-            
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
@@ -38,32 +63,27 @@
                 </configuration>
                 <executions>
                     <execution>
+                        <id>repackage</id>
                         <goals>
                             <goal>repackage</goal>
                         </goals>
+                        <configuration>
+                            <requiresUnpack>
+                                <dependency>
+                                    <groupId>org.asciidoctor</groupId>
+                                    <artifactId>asciidoctorj</artifactId>
+                                    <version>2.0.0</version>
+                                </dependency>
+                                <dependency>
+                                    <groupId>org.asciidoctor</groupId>
+                                    <artifactId>asciidoctorj-pdf</artifactId>
+                                    <version>1.5.0-alpha.15</version>
+                                </dependency>
+                            </requiresUnpack>
+                        </configuration>
                     </execution>
                 </executions>
             </plugin>
-            
-            <plugin>
-                <groupId>org.xolstice.maven.plugins</groupId>
-                <artifactId>protobuf-maven-plugin</artifactId>
-                <version>0.5.1</version>
-                <configuration>
-                    <protocArtifact>com.google.protobuf:protoc:3.5.1-1:exe:${os.detected.classifier}</protocArtifact>
-                    <pluginId>grpc-java</pluginId>
-                    <pluginArtifact>io.grpc:protoc-gen-grpc-java:1.17.1:exe:${os.detected.classifier}</pluginArtifact>
-                </configuration>
-                <executions>
-                    <execution>
-                        <goals>
-                            <goal>compile</goal>
-                            <goal>compile-custom</goal>
-                        </goals>
-                    </execution>
-                </executions>
-            </plugin>
-            
         </plugins>
     </build>
     
