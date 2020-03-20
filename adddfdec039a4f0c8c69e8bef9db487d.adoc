@@ -1,0 +1,495 @@
+:icons: font 
+:header-content-date-range: 2020-02-20 ~ 2020-03-20 
+:footer-content: ミエルカ{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}Copyright{nbsp}(c){nbsp}Faber{nbsp}Company{nbsp}Inc.{nbsp}All{nbsp}Rights{nbsp}Reserved 
+:pagenums:
+:from-date: 2020-02-20
+:to-date: 2020-03-20
+
+= Faber Company Việt Nam 
+〒116-0002, ５丁目-３９-6 荒川 荒川区 東京都 116-0002, Japan 
+:doctype: book 
+
+=== 1. Insights 
+*How customers search for your business* + 
+This section shows how many customers found you and how they found you.
+====
+[.text-center]
+image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/568927470/2020-02-20;-;2020-03-20/image/searchPieInsights.png[width="400"] + 
+====
+
+[.text-center]
++++<color rgb="#727272">+++ 図 1.1: How customers search for your business +++</color>+++ 
+
+====
+[.text-center]
+image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/568927470/2020-02-20;-;2020-03-20/image/searchColumnInsights.png[width="500"] + 
+====
+
+[.text-center]
++++<color rgb="#727272">+++ 図 1.2: How customers search for your business +++</color>+++ 
+
+====
+WARNING: *Note:*{nbsp}These{nbsp}searches{nbsp}are{nbsp}calculated{nbsp}individually,{nbsp}so{nbsp}if{nbsp}a{nbsp}user{nbsp}did{nbsp}a{nbsp}discovery{nbsp}search{nbsp}and{nbsp}then{nbsp}a{nbsp}direct{nbsp}search,{nbsp}we{nbsp}would{nbsp}count{nbsp}these{nbsp}as{nbsp}2{nbsp}searches{nbsp}(or{nbsp}one{nbsp}in{nbsp}each{nbsp}section).
+
+====
+
+<<< 
+
+*Where customers view your business on Google* + 
+The Google services that customers use to find your business.
+====
+[.text-center]
+image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/568927470/2020-02-20;-;2020-03-20/image/viewPieInsights.png[width="400"] + 
+====
+
+[.text-center]
++++<color rgb="#727272">+++ 図 1.3: Where customers view your business on Google +++</color>+++ 
+
+====
+[.text-center]
+image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/568927470/2020-02-20;-;2020-03-20/image/viewColumnInsights.png[width="500"] + 
+====
+
+[.text-center]
++++<color rgb="#727272">+++ 図 1.4: Where customers view your business on Google +++</color>+++ 
+
+====
+WARNING: *Note:*{nbsp}Views{nbsp}calculated{nbsp}per{nbsp}user,{nbsp}so{nbsp}if{nbsp}a{nbsp}user{nbsp}saw{nbsp}the{nbsp}listing{nbsp}on{nbsp}Search{nbsp}and{nbsp}then{nbsp}clicked{nbsp}to{nbsp}Maps,{nbsp}it{nbsp}would{nbsp}only{nbsp}count{nbsp}as{nbsp}one{nbsp}view.
+
+====
+
+<<< 
+
+*Customer actions* + 
+The most common actions that customers take on your listing.
+====
+[.text-center]
+image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/568927470/2020-02-20;-;2020-03-20/image/actionPieInsights.png[width="400"] + 
+====
+
+[.text-center]
++++<color rgb="#727272">+++ 図 1.5: Customer actions +++</color>+++ 
+
+====
+[.text-center]
+image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/568927470/2020-02-20;-;2020-03-20/image/actionColumnInsights.png[width="500"] + 
+====
+
+[.text-center]
++++<color rgb="#727272">+++ 図 1.6: Customer actions +++</color>+++ 
+
+====
+WARNING: *Note:*{nbsp}This{nbsp}graph{nbsp}displays{nbsp}the{nbsp}total{nbsp}number{nbsp}of{nbsp}times{nbsp}anyone{nbsp}clicked{nbsp}one{nbsp}of{nbsp}the{nbsp}actions{nbsp}(e.g.{nbsp}"request{nbsp}directions").{nbsp}This{nbsp}means{nbsp}that{nbsp}a{nbsp}single{nbsp}user{nbsp}can{nbsp}request{nbsp}directions{nbsp}to{nbsp}a{nbsp}business{nbsp}100{nbsp}times{nbsp}in{nbsp}a{nbsp}single{nbsp}day,{nbsp}and{nbsp}we{nbsp}would{nbsp}record{nbsp}100{nbsp}requests. 
+
+====
+
+<<< 
+
+*Phone calls* + 
+When and how many times customers call your business.
+====
+[.text-center]
+image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/568927470/2020-02-20;-;2020-03-20/image/callWeekColumnInsights.png[width="500"] + 
+====
+
+[.text-center]
++++<color rgb="#727272">+++ 図 1.7: Phone calls +++</color>+++ 
+
+====
+[.text-center]
+image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/568927470/2020-02-20;-;2020-03-20/image/callDayLineInsights.png[width="500"] + 
+====
+
+[.text-center]
++++<color rgb="#727272">+++ 図 1.8: Phone calls +++</color>+++ 
+
+<<< 
+
+*Photos* + 
+This section displays the number of photos associated with your listing and how often they’re viewed compared to similar businesses.
+====
+[.text-center]
+image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/568927470/2020-02-20;-;2020-03-20/image/photoViewPieInsights.png[width="400"] + 
+====
+
+[.text-center]
++++<color rgb="#727272">+++ 図 1.9: Photos +++</color>+++ 
+
+====
+[.text-center]
+image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/568927470/2020-02-20;-;2020-03-20/image/photoViewColumnInsights.png[width="500"] + 
+====
+
+[.text-center]
++++<color rgb="#727272">+++ 図 1.10: Photos +++</color>+++ 
+
+<<< 
+
+====
+[.text-center]
+image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/568927470/2020-02-20;-;2020-03-20/image/photoUploadPieInsights.png[width="400"] + 
+====
+
+[.text-center]
++++<color rgb="#727272">+++ 図 1.11: Photos +++</color>+++ 
+
+====
+[.text-center]
+image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/568927470/2020-02-20;-;2020-03-20/image/photoUploadColumnInsights.png[width="500"] + 
+====
+
+[.text-center]
++++<color rgb="#727272">+++ 図 1.12: Photos +++</color>+++ 
+
+====
+WARNING: *Note:*{nbsp}If{nbsp}there{nbsp}are{nbsp}enough{nbsp}businesses{nbsp}in{nbsp}the{nbsp}area{nbsp}similar{nbsp}to{nbsp}yours,{nbsp}there{nbsp}are{nbsp}lines{nbsp}on{nbsp}the{nbsp}graphs{nbsp}that{nbsp}compare{nbsp}your{nbsp}photo{nbsp}data{nbsp}with{nbsp}photo{nbsp}data{nbsp}to{nbsp}the{nbsp}similar{nbsp}businesses.{nbsp}For{nbsp}example,{nbsp}if{nbsp}you{nbsp}manage{nbsp}a{nbsp}restaurant,{nbsp}your{nbsp}business{nbsp}would{nbsp}be{nbsp}compared{nbsp}to{nbsp}other{nbsp}restaurants{nbsp}in{nbsp}your{nbsp}area.{nbsp}On{nbsp}the{nbsp}right{nbsp}side{nbsp}of{nbsp}the{nbsp}graph{nbsp}you’ll{nbsp}see{nbsp}the{nbsp}total{nbsp}number{nbsp}of{nbsp}photos{nbsp}based{nbsp}on{nbsp}the{nbsp}data{nbsp}points{nbsp}you’ve{nbsp}selected. 
+
+====
+
+<<< 
+
+*Posts* + 
+This section displays how many posts were viewed and customer actions for your post.
+====
+[.text-center]
+image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/568927470/2020-02-20;-;2020-03-20/image/postColumnInsights.png[width="500"] + 
+====
+
+[.text-center]
++++<color rgb="#727272">+++ 図 1.13: Posts +++</color>+++ 
+
+====
+WARNING: *Note:*{nbsp}Businesses{nbsp}with{nbsp}recent{nbsp}post{nbsp}typically{nbsp}receive{nbsp}more{nbsp}clicks{nbsp}to{nbsp}their{nbsp}websites. 
+
+====
+
+<<< 
+
+*Driving directions* + 
+This section shows where customers are when they request directions to your business.
+
++++<font size="1.2em">+++  +++</font>+++ 
+====
+WARNING: *Note:*{nbsp}This{nbsp}map{nbsp}displays{nbsp}the{nbsp}number{nbsp}of{nbsp}unique{nbsp}users{nbsp}in{nbsp}each{nbsp}source{nbsp}location{nbsp}(i.e.{nbsp}postcode,{nbsp}city,{nbsp}and{nbsp}country).{nbsp}This{nbsp}means{nbsp}that{nbsp}a{nbsp}single{nbsp}user{nbsp}can{nbsp}request{nbsp}directions{nbsp}to{nbsp}a{nbsp}business{nbsp}100{nbsp}times{nbsp}in{nbsp}the{nbsp}time{nbsp}period,{nbsp}but{nbsp}we{nbsp}would{nbsp}only{nbsp}record{nbsp}one{nbsp}request. 
+
+====
+
+<<< 
+
+=== 2. Reviews 
+*Review summary* + 
+This section summary information review and rating your business.
+
+[cols="^.^,^.^", frame="none", grid="cols"] 
+|=== 
+|0.0 + 
+Average Rating 
+
+|0 + 
+Number of Reviews 
+|=== 
+
+====
+[.text-center]
+image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/568927470/2020-02-20;-;2020-03-20/image/pieChartReviews.png[width="400"] + 
+====
+
+[.text-center]
++++<color rgb="#727272">+++ 図 2.1: Review summary +++</color>+++ 
+
+====
+[.text-center]
+image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/568927470/2020-02-20;-;2020-03-20/image/columnChartReviews.png[width="500"] + 
+====
+
+[.text-center]
++++<color rgb="#727272">+++ 図 2.2: Review summary +++</color>+++ 
+
+<<< 
+
+*Review Detail* + 
+This section show detail review and rating from client.
+
+<<< 
+
+=== 3. Review Competiors 
+*Compare review with competitor* + 
+Compare summary review with list competitor 
+
+====
+[.text-center]
+image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/568927470/2020-02-20;-;2020-03-20/image/invertedChartReviewCompetitor.png[width="500"] + 
+====
+
+[.text-center]
++++<color rgb="#727272">+++ 図 3.1: Compare review competitor +++</color>+++ 
+
+<<< 
+
+=== 4. Location Ranking 
+Device: Desktop 
+
+[cols="20%,18%,8%,8%,8%,8%,8%,8%,7%,7%", frame="topbot", grid="rows", stripes="none"]
+|=== 
+.2+<.^|KEYWORD 
+.2+<.^|LOCATION NAME 
+2.+^|+++<font size="0.8em">+++ LAST 3 WEEKS +++</font>+++ 
+2.+^|+++<font size="0.8em">+++ LAST 2 WEEKS +++</font>+++ 
+2.+^|+++<font size="0.8em">+++ LAST 1 WEEKS +++</font>+++ 
+2.+^|+++<font size="0.8em">+++ THIS WEEKS +++</font>+++ 
+
+^|image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/common-images/icon_ranking.png[alt="rank",pdfwidth="18"] 
+^|image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/common-images/icon_champion.png[alt="champion",pdfwidth="16"] 
+^|image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/common-images/icon_ranking.png[alt="rank",pdfwidth="18"] 
+^|image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/common-images/icon_champion.png[alt="champion",pdfwidth="16"] 
+^|image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/common-images/icon_ranking.png[alt="rank",pdfwidth="18"] 
+^|image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/common-images/icon_champion.png[alt="champion",pdfwidth="16"] 
+^|image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/common-images/icon_ranking.png[alt="rank",pdfwidth="18"] 
+^|image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/common-images/icon_champion.png[alt="champion",pdfwidth="16"] 
+
+|shin
+|Shinjuku City
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+
+|xxx
+|duo MUSIC EXCHANGE
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+
+|xxxx
+|duo MUSIC EXCHANGE
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+
+|xxx
+|Haneda Airport
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+
+|t
+|Haneda Airport
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+
+|xxxx
+|Haneda Airport
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+
+|xxx
+|Asakusa
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+
+|xxxx
+|Asakusa
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+
+|xxx
+|Gundam Cafe
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+
+|xxxx
+|Gundam Cafe
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+
+|=== 
+<<< 
+
+Device: Mobile 
+
+[cols="20%,18%,8%,8%,8%,8%,8%,8%,7%,7%", frame="topbot", grid="rows", stripes="none"]
+|=== 
+.2+<.^|KEYWORD 
+.2+<.^|LOCATION NAME 
+2.+^|+++<font size="0.8em">+++ LAST 3 WEEKS +++</font>+++ 
+2.+^|+++<font size="0.8em">+++ LAST 2 WEEKS +++</font>+++ 
+2.+^|+++<font size="0.8em">+++ LAST 1 WEEKS +++</font>+++ 
+2.+^|+++<font size="0.8em">+++ THIS WEEKS +++</font>+++ 
+
+^|image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/common-images/icon_ranking.png[alt="rank",pdfwidth="18"] 
+^|image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/common-images/icon_champion.png[alt="champion",pdfwidth="16"] 
+^|image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/common-images/icon_ranking.png[alt="rank",pdfwidth="18"] 
+^|image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/common-images/icon_champion.png[alt="champion",pdfwidth="16"] 
+^|image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/common-images/icon_ranking.png[alt="rank",pdfwidth="18"] 
+^|image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/common-images/icon_champion.png[alt="champion",pdfwidth="16"] 
+^|image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/common-images/icon_ranking.png[alt="rank",pdfwidth="18"] 
+^|image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/common-images/icon_champion.png[alt="champion",pdfwidth="16"] 
+
+|shin
+|Shinjuku City
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+
+|xxx
+|duo MUSIC EXCHANGE
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+
+|xxxx
+|duo MUSIC EXCHANGE
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+
+|xxx
+|Haneda Airport
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+
+|t
+|Haneda Airport
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+
+|xxxx
+|Haneda Airport
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+
+|xxx
+|Asakusa
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+
+|xxxx
+|Asakusa
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+
+|xxx
+|Gundam Cafe
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+
+|xxxx
+|Gundam Cafe
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+^|+++<color rgb="#ffbf36">+++0+++</color>+++ 
+| 
+
+|=== 
+<<< 
+
